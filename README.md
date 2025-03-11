@@ -11,10 +11,3 @@ _Always coding, always learning, always evolving._
 
 🚀 Let's Connect!
 💼 https://www.linkedin.com/in/george-m-35aa65210/  | ✉️ george.dev02@gmail.com
-
-<!-- GitHub Stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=george-m&show_icons=true&theme=radical)
-
-<!-- Most Used Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-mE&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
